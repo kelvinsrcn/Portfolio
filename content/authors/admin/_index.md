@@ -20,16 +20,16 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: I study ICT.
 
-interests:
-- Programming in Java
-- Bioinformatics
-- Artificial Intelligence
+#interests:
+#- Programming in Java
+#- Bioinformatics
+#- Artificial Intelligence
 
 #education:
-  courses:
-  - course: Informatica
-    institution: ITT G. Giorgi, Brindisi
-    year: 2022
+#  courses:
+#  - course: Informatica
+#    institution: ITT G. Giorgi, Brindisi
+#    year: 2022
 
 
 # Social/Academic Networking
