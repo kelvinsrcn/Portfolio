@@ -31,8 +31,8 @@ content:
     # - name: Machine Learning
       # tag: ML
    # - name: Computer Vision
-      tag: CV
-    - name: NLP
+    #  tag: CV
+   # - name: NLP
     #  tag: NLP
 
 design:
