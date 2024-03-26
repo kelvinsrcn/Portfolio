@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kevinsaracino@outlook.it"
+# email: "kevinsaracino@outlook.it"
 ---
 
 Kevin Saracino is an ICT student at Università degli Studi Aldo Moro. He graduated in Highschool in Computer Science with a 100/100 score.
