@@ -61,6 +61,6 @@ social:
 # email: "kevinsaracino@outlook.it"
 ---
 
-Kevin Saracino is an ICT student at Università degli Studi Aldo Moro. He graduated in Highschool in Computer Science with a 100/100 score.
+Kevin Saracino is an ICT student at Università degli Studi di Bari Aldo Moro. He graduated from ITT G. Giorgi, Brindisi in Computer Science with a 100/100 score.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} My resumé as a PDF.
