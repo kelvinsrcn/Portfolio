@@ -25,7 +25,7 @@ experience:
   - title: IT Technical Expert
     company: ITT G. Giorgi
     company_url: ''
-    company_logo: ittgiorgi.png
+    company_logo: ittgiorgi
     location: Brindisi
     date_start: '2017-09-15'
     date_end: '2022-06-30'
