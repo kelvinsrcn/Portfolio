@@ -1,6 +1,6 @@
 ---
-title: Le Armonie del Custode - The Game
-summary: "Le Armonie del Custode" is an interactive fiction, made in Italian, using Java. 
+title: Le Armonie del Custode
+summary: 'Le Armonie del Custode' is an interactive fiction, made in Italian, using Java. 
 tags:
   - CV
 date: 2024-06-19
