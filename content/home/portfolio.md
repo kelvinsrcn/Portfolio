@@ -26,13 +26,13 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   # filter_button:
-    - name: All
-      tag: '*'
+    # - name: All
+    #  tag: '*'
     # - name: Machine Learning
-      # tag: ML
-    - name: Computer Vision
+    # tag: ML
+    # - name: Computer Vision
     #  tag: CV
-    - name: NLP
+    # - name: NLP
     #  tag: NLP
 
 design:
