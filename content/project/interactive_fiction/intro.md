@@ -1,8 +1,8 @@
 ---
-title: Le Armonie del Custode
-summary: 'Le Armonie del Custode' is an interactive fiction, made in Italian, using Java. 
+title: Cartoon Face Generator
+summary: Write about your project here...
 tags:
   - CV
-date: 2024-06-19
-external_link: https://github.com/kelvinsrcn/Le-Armonie-del-Custode-Avventura-Mista
+date: 2022-01-01
+external_link: http://github.com
 ---
