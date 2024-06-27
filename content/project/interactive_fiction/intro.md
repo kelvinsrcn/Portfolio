@@ -1,6 +1,6 @@
 ---
 title: Le Armonie del Custode
-summary: Write about your project here...
+summary: "Le Armonie del Custode" is an original interactive fiction, made in Italian, using Java.
 tags:
   - CV
 date: 2022-01-01
