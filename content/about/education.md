@@ -37,7 +37,7 @@ experience:
     company_logo: ittgiorgi
     location: Brindisi
     date_start: '2017-09-15'
-    date_end: '2022-06-30'
+    date_end: ''
     description: |2-
         * Computer Science studies
 
