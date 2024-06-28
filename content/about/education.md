@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Computer Science
+    company: Università degli Studi di Bari Aldo Moro
+    company_url: ''
+    company_logo: uniba
+    location: Bari
+    date_start: '2022-09-15'
+    date_end: 'on-going'
+    description: |2-
+        * Three-Year Degree
   - title: IT Technical Expert
     company: ITT G. Giorgi
     company_url: ''
