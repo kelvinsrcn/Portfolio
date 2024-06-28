@@ -28,7 +28,7 @@ experience:
     company_logo: uniba
     location: Bari
     date_start: '2022-09-15'
-    date_end: '2025-09-12'
+    date_end: ''
     description: |2-
         * Three-Year Degree (on-going)
   - title: IT Technical Expert
@@ -37,7 +37,7 @@ experience:
     company_logo: ittgiorgi
     location: Brindisi
     date_start: '2017-09-15'
-    date_end: ''
+    date_end: '2022-06-28'
     description: |2-
         * Computer Science studies
 
