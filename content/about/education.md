@@ -28,9 +28,9 @@ experience:
     company_logo: uniba
     location: Bari
     date_start: '2022-09-15'
-    date_end: 'on-going'
+    date_end: '2025-09-12'
     description: |2-
-        * Three-Year Degree
+        * Three-Year Degree (on-going)
   - title: IT Technical Expert
     company: ITT G. Giorgi
     company_url: ''
