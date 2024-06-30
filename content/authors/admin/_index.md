@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kevin Saracino
+title: Kevin's Website
 
 # Is this the primary user of the site?
 superuser: true
