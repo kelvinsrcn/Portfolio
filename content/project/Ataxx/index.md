@@ -1,6 +1,6 @@
 ---
 title: Ataxx - Arcade Game
-summary: «Ataxx» is a retro-game from the '90, made in Italian, using Java. To design the project, I collaborated with the «Hopcroft» team consisting of Yuri Tateo, Antimo Tateo, Angelo Vincenti e Francesca Palumbo.
+summary: «Ataxx» is a retro-game from the '90, made in Italian, using Java. To design the project, I collaborated with the «Hopcroft» team consisting of [Yuri Tateo](URL "https://github.com/yuritateo03"), Antimo Tateo, Angelo Vincenti e Francesca Palumbo.
 tags:
   - CV
 date: 2024-06-12
